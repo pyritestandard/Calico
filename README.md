@@ -140,9 +140,5 @@ Access it with right-click or the `≡` icon.
 - Time menu includes `ns`, `µs`, `ms`, `s`, `min`, `h`, `day`, `week`, `month`, `year`
 - Supported holidays for quick insertion
 
-## Notes
+Settings are stored per-user in `%AppData%\\Calico\\Calico.ini`
 
-- Settings are stored per-user in `%AppData%\\Calico\\Calico.ini`
-- Settings include hotkey, opacity, UI scale, always-on-top, symbol panel default state, and numeric date order (`MM/DD/YYYY` or `DD/MM/YYYY`)
-- The window is translucent and can stay always on top
-- If the chosen hotkey is already taken, registration can fail until you change it
