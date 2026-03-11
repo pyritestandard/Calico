@@ -2,6 +2,8 @@
 
 Calico is a lightweight floating calculator that appears instantly at your cursor with a hotkey. Do quick math, conversions, time calculations, and more without leaving the app you're using. Click away and it instantly hides, keeping your workflow uninterrupted.
 
+![Gif showing calc appearing at cursor.](assets/Calculator_22.gif)
+
 ## Highlights
 
 - Configurable global hotkey to open near the cursor
@@ -9,6 +11,8 @@ Calico is a lightweight floating calculator that appears instantly at your curso
 - Right-click or click the `≡` icon for the insert menu
 - History stores committed results for quick reuse
 - Commands: `!help`, `!8ball`, `!roll`, `!clear`, `!exit`, `!settings`
+
+![Gif showing calcfeatures.](assets/Calculator.gif)
 
 ## Math Input
 
