@@ -83,7 +83,7 @@ Time formats:
 
 Ask about supported US holidays and get dates or countdowns:
 
-- `when is Christmas`
+- `days until halloween`
 - `christmas`
 - `thanksgiving 2024`
 - `is today a holiday`
@@ -96,6 +96,8 @@ Supported holidays:
 - Memorial Day, Independence Day, Labor Day
 - Columbus Day, Halloween, Veterans Day
 - Thanksgiving, Christmas Eve, Christmas Day
+
+  More to come.
 
 ## Commands
 
